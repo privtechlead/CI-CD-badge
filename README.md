@@ -3,7 +3,7 @@
 
 *  Waterfall Model, Agile Model.
 *  Development and Operations phases, tools, and advantages.
-*  Standard Phase CI/CD Pipeline DevOps tools: Git, Eclipse (integrated development environment (IDE)), Maven (for Java), Docker (for containment/virtual machine), Make, Apache Ant, Grunt, Gulp, Bash (for Linux), JUnit, Cucumber, Serena, uDeploy, AWS (public cloud tool), Azure (public cloud tool), Openstack (private cloud tool), Kubernetes (cloud orchestration technology increasingly used as a release platform), JBoss (for enterprise application run-time focus).
+*  Standard Phase CI/CD Pipeline DevOps tools: Git, Eclipse (integrated development environment (IDE)), Maven (for Java), Docker (for containment/virtual machine), Make, Apache Ant, Grunt, Gulp, Bash (for Linux), JUnit, Cucumber, Serena, uDeploy, AWS (public cloud tool), Azure (public cloud tool), Openstack (private cloud tool), Kubernetes (cloud orchestration technology increasingly used as release platform), JBoss (for focus on enterprise application run-time).
 *  CI/CD Pipeline with TeamCity.
 *  CI/CD Pipeline build with Jenkins.
   
