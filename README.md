@@ -7,5 +7,4 @@
 *  CI/CD Pipeline with TeamCity
 *  CI/CD Pipeline build with Jenkins
   
-  ![Screenshot 2024-10-07 at 23-28-52 Certificate CI_CD for Beginners](https://github.com/user-attachments/assets/bb524f95-c65e-4a1c-af59-4c7377d0abcf)
-
+  
