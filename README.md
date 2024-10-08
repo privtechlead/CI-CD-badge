@@ -1,4 +1,5 @@
 # CI/CD for Beginners
+![Screenshot 2024-10-07 at 23-22-45 7437215_1728341814 pdf](https://github.com/user-attachments/assets/4736be41-da5f-4222-80d6-868a0ec1a112)
 
 *  Waterfall Model, Agile Model.
 *  DevOps phases, tools, and advantages.
