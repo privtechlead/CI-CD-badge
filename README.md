@@ -1,5 +1,5 @@
 # CI/CD for Beginners
-![Screenshot 2024-10-07 at 23-25-32 7437215_1728341814 pdf](https://github.com/user-attachments/assets/2fc36124-fd96-4615-b8cf-640115470cb0)
+![Screenshot 2024-10-07 at 18-58-09 Certificate CI_CD for Beginners](https://github.com/user-attachments/assets/348f6e8b-47e6-436e-be39-5408987019c6)
 
 *  Waterfall Model, Agile Model
 *  DevOps phases, tools, and advantages
